@@ -25,10 +25,10 @@ Right now I'm getting used to some popular *FRONT-END* tools and exploring **bet
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=alexmoDeveloper&layout=compact&theme=radical' />
 </div>
 
+![Snake animation](https://github.com/alexmoDeveloper/alexmoDeveloper/blob/output/github-contribution-grid-snake.svg)
+
 ### Wanna say hi?
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-moraes-de-oliveira-b5b686233/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/o_alexmo[)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/alexmoDeveloper 'alxmoliveira@gmail.com')
-
-![Snake animation]()
