@@ -6,7 +6,24 @@ Right now I'm wrapping my head around all the *FRONT-END* concepts 🤯 and maki
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+\\(^o^)/;Let+me+show+you+what+I've+been+up+to!&width=500&font=Fira+Code&color=bd93f9&duration=3700&pause=700)](https://git.io/typing-svg)
 
----
-
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmoDeveloper&hide=prs,issues&count_private=trueshow_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmoDeveloper&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<div>
+  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
+  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg'>
+  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
+  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg'>
+  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg'>
+  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg'>
+  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg'>
+</div>
+
+### Wanna say hi?
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[]()
+[]()
