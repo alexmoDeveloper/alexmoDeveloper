@@ -7,15 +7,15 @@ Right now I'm getting used to some popular *FRONT-END* tools and exploring **bet
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+\\(^o^)/;Let+me+show+you+what+I've+been+up+to!&width=500&font=Fira+Code&color=bd93f9&duration=3700&pause=700)](https://git.io/typing-svg)
 
 <div>
-  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
-  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
-  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
-  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg'>
-  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
-  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg'>
-  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg'>
-  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg'>
-  <img width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg'>
+  <img width='35' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+  <img width='35' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
+  <img width='35' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+  <img width='35' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg'>
+  <img width='35' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
+  <img width='35' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg'>
+  <img width='35' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg'>
+  <img width='35' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg'>
+  <img width='35' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg'>
 </div>
 
 ---
