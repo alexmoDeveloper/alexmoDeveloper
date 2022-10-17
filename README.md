@@ -21,7 +21,7 @@ Right now I'm getting used to some popular *FRONT-END* tools and exploring **bet
 ---
 
 <div>
-  <img height='150em' src='https://github-readme-stats.vercel.app/api?username=alexmoDeveloper&hide=prs,issues&count_private=trueshow_icons=true&theme=radical' />
+  <img height='140em' src='https://github-readme-stats.vercel.app/api?username=alexmoDeveloper&hide=prs,issues&count_private=trueshow_icons=true&theme=radical' />
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=alexmoDeveloper&layout=compact&theme=radical' />
 </div>
 
