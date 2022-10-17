@@ -1,5 +1,5 @@
 
-### Hi There! 👋
+### Hey There! 👋
 
 I'm **Alex**, a 19 years old brasilian kid |🇧🇷 that decided to take his chances on developing **web applications** 🤓 .  
 Right now I'm wrapping my head around all the *FRONT-END* concepts 🤯 and making good use of the stablished **best practices**.
@@ -20,8 +20,10 @@ Right now I'm wrapping my head around all the *FRONT-END* concepts 🤯 and maki
 
 ---
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmoDeveloper&hide=prs,issues&count_private=trueshow_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmoDeveloper&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<img src='https://github-readme-stats.vercel.app/api?username=alexmoDeveloper&hide=prs,issues&count_private=trueshow_icons=true&theme=radical' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=alexmoDeveloper&layout=compact&theme=radical' />
+</div>
 
 ### Wanna say hi?
 
