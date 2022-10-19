@@ -15,7 +15,7 @@ Right now I'm getting used to some popular *FRONT-END* tools and exploring **bet
   <img width='35' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg'>
   <img width='35' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg'>
   <img width='35' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg'>
-  <img width='35' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg'>
+  <img width='35' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg'>
 </div>
 
 ---
